@@ -4,5 +4,5 @@
 2. How to Manage the "Nonlinear" building Blocks with thier Relations (as [Entity Relationship Modeling](https://www.sciencedirect.com/topics/computer-science/relationship-modeling) ) using TW5 , where:
     * Each Tiddler is an "Entity" (Fractal Point)
     * Tags are the "adjective" of that Point
-    * Fields are the "Attributes" (Internal and Relations 
+    * Fields are the "Attributes" ("Internal Attributes" and "Relationships Attributes")
 
